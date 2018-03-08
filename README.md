@@ -1,4 +1,4 @@
-# SagaCoin
+sCash
 
 sCash is a PoW + PoS-based cryptocurrency.
 
