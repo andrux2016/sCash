@@ -32,7 +32,7 @@ BUILD LINUX (see the [Wiki](https://github.com/andrux2016/sCash/wiki/Unix-Build)
 
 6) cd ..
 
-7) sudo make -f makefile.unix USE_UPNP=    # Headless SagaCoin
+7) sudo make -f makefile.unix USE_UPNP=    # Headless sCash
 
 8) strip scashcoind
 
